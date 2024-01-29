@@ -20,7 +20,7 @@
 ```
 2. Truy cập: "http://localhost:5000/"
 ```
-## Demo qua một phần của website:
+## Demo website:
 
 https://www.youtube.com/watch?v=pqJJaiiLr5k
 
