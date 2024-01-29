@@ -3,8 +3,6 @@
 ![Alt text](aroma_logo.PNG)
 
 
-## Thành viên nhóm
-
 | STT |    MSSV    | Họ và tên             |    
 | :-: | :--------: | --------------------- | 
 |  1  | 20880263 | Nguyễn Hoàng Nam  |  
@@ -20,7 +18,7 @@
 1. Chạy web thông qua lệnh: "npm start"
 ```
 ```
-2. Truy cập: "http://localhost:5001/"
+2. Truy cập: "http://localhost:5000/"
 ```
 ## Demo qua một phần của website: (note: ấn link hoặc vào hình để đi đến video)
 
