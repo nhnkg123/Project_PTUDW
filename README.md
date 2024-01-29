@@ -1,4 +1,4 @@
-# Đồ án môn học - Website bán hàng (client page)
+# Đồ án môn học - Website bán hàng 
 
 ![Alt text](aroma_logo.PNG)
 
